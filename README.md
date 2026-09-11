@@ -84,6 +84,7 @@ against
 | [Flight Radar](<https://github.com/yuters/omarchy-flight-radar.git>) | yuters | Live aircraft overhead with short-horizon flyby forecasts, an overhead badge, and notifications. Works without an account. |
 | [Hive Status](<https://github.com/ivankuznetsov/hive-omarchy.git>) | Ivan Kuznetsov | Monitor Hive instances and active tasks from the Omarchy bar. |
 | [Keysmith](<https://github.com/Ahmed-Sinkeat/keysmith.git>) | Ahmed-Sinkeat | Add, change, and remove Omarchy shortcuts without editing config files |
+| [Navigation Guide](<https://github.com/infinitegithub/omarchy-nav-guide.git>) | Es Sadik Sanhaji | Context-aware navigation tutor for Omarchy: suggests keybinds based on what windows you have open and where you are |
 | [Omacal](<https://github.com/brianblakely/omacal.git>) | Brian Blakely | Omarchy-native day/time label with a mini calendar popup |
 | [Omadoro](<https://github.com/brianblakely/omadoro.git>) | Brian Blakely | A Pomodoro timer for the Omarchy bar. |
 | [OmaHUD](<https://github.com/brianblakely/omahud.git>) | Brian Blakely | Flashes a discreet Hyprland workspace indicator when you switch workspaces. It's designed for people who hide their Omarchy bar most of the time, and would like help navigating their workspaces. |
